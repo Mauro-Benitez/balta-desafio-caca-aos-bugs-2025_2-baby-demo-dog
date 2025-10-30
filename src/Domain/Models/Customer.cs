@@ -1,4 +1,4 @@
-namespace BugStore.Models;
+namespace BugStore.Domain.Models;
 
 public class Customer
 {
